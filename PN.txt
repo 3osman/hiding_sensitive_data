@@ -1,0 +1,182 @@
+****** F:
+b
+a
+h
+g
+f
+e
+d
+c
+b, f
+b, e
+b, d
+d, h
+b, c
+d, g
+d, f
+d, e
+f, h
+f, g
+a, h
+a, g
+a, f
+a, e
+a, d
+c, h
+a, c
+c, g
+a, b
+c, f
+c, e
+c, d
+b, h
+b, g
+a, c, d
+b, d, h
+b, d, g
+b, d, f
+b, d, e
+b, f, h
+b, f, g
+a, b, g
+a, b, f
+a, b, e
+d, f, h
+d, f, g
+a, b, d
+a, d, h
+a, b, c
+a, d, g
+a, d, f
+a, d, e
+b, c, h
+b, c, g
+b, c, f
+a, f, g
+b, c, e
+b, c, d
+c, d, h
+c, d, f
+c, d, e
+c, f, h
+a, c, h
+a, c, g
+a, c, e
+a, b, d, e
+a, d, f, g
+c, d, f, h
+a, b, f, g
+b, c, d, h
+b, c, d, f
+b, c, d, e
+a, b, c, g
+a, b, c, e
+a, c, d, h
+a, b, c, d
+b, d, f, h
+b, d, f, g
+b, c, f, h
+a, b, d, g
+a, c, d, e
+a, b, d, f
+a, b, c, d, e
+b, c, d, f, h
+a, b, d, f, g
+****** F':
+b
+a
+h
+g
+f
+e
+d
+c
+b, f
+b, e
+b, d
+d, h
+b, c
+d, g
+d, f
+d, e
+f, h
+f, g
+a, h
+a, g
+a, f
+a, e
+a, d
+c, h
+a, c
+c, g
+a, b
+c, f
+c, e
+c, d
+b, h
+b, g
+a, c, d
+b, d, h
+b, d, g
+b, d, f
+b, d, e
+b, f, g
+a, b, g
+a, b, f
+a, b, e
+d, f, h
+a, b, d
+a, d, h
+a, b, c
+a, d, g
+a, d, f
+a, d, e
+b, c, h
+b, c, g
+b, c, f
+a, f, g
+b, c, e
+b, c, d
+c, d, h
+c, d, f
+c, d, e
+c, f, h
+a, c, h
+a, c, g
+a, c, e
+a, b, d, e
+c, d, f, h
+a, b, f, g
+b, c, d, h
+b, c, d, f
+b, c, d, e
+a, b, c, g
+a, b, c, e
+a, c, d, h
+a, b, c, d
+a, b, d, g
+a, c, d, e
+a, b, d, f
+a, b, c, d, e
+****** Positive Borders:
+a, b, c, d, e
+c, d, f, h
+a, b, f, g
+b, c, d, h
+b, c, d, f
+a, b, c, g
+a, c, d, h
+a, b, d, g
+a, b, d, f
+****** Negative Borders:
+g, h
+e, h
+e, g
+e, f
+b, f, h
+d, f, g
+c, d, g
+a, f, h
+c, f, g
+a, b, h
+a, c, f

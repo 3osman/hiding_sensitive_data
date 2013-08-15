@@ -1,0 +1,10 @@
+Min Support = 0.05       Confidence = 0.1
+[23]---->[25] Support =   7.48%%   Confidence = 38%
+lift = 1.513  Correlation =  0.1472       ChiSquare = 213.649
+[25]---->[23] Support =   7.48%%   Confidence = 29%
+lift = 1.513  Correlation =  0.1472       ChiSquare = 213.649
+[25]---->[30] Support =   5.6%%   Confidence = 21%
+lift = 1.571  Correlation =  0.1348       ChiSquare = 178.8778
+[30]---->[25] Support =   5.6%%   Confidence = 40%
+lift = 1.571  Correlation =  0.1348       ChiSquare = 178.8778
+Number Of Rules = 4
